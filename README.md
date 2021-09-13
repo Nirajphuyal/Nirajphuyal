@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nirajphuyal
+- 👀 I’m interested in C and web development.
+- 🌱 I’m currently learning C
